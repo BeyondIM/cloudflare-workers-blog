@@ -17135,6 +17135,6 @@ body>header.header .logo img {
 
 
 .hijs {
-	background: #eee;
-  border-radius: 8px;
+	background: #eee !important;
+  border-radius: 8px !important;
 }
