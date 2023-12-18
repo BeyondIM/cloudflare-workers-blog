@@ -11399,9 +11399,6 @@ body>header.header.header-style-2 .icon-bar {
 	left:10px
 }
 }.entry .entry-content .wp-block-code,.entry .entry-content pre {
-	/* padding:30px;
-	background:#2b303b;
-	border-radius:3px; */
 	border:0;
 	color:#eee;
 	overflow-x:auto
