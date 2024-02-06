@@ -11401,6 +11401,8 @@ body>header.header.header-style-2 .icon-bar {
 }.entry .entry-content .wp-block-code,.entry .entry-content pre {
 	border:0;
 	color:#eee;
+	background-color: #333;
+	padding: 6px 12px;
 	overflow-x:auto
 }
 @media(max-width:1239px) {
